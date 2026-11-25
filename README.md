@@ -1,6 +1,15 @@
 # STorM32_Gimbal项目简介
 
-占位（视频1）  占位（视频2）
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github.com/user-attachments/assets/0c473fa2-4649-4ee6-bf2f-c77e58dbf4f5" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://github.com/user-attachments/assets/4dfc6341-fdcd-4deb-a17a-ca13e4600e9a" width="100%" />
+    </td>
+  </tr>
+</table>
 
 手持三轴云台项目基于storm32开发，重新设计电路部分删除冗余部分，结构采用钣金折弯设计，作为DIY大幅降低可玩性成本。<br>
 修改结构可作为吊舱三轴云台挂载无人机使用，电路固件通用。
