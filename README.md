@@ -11,6 +11,25 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>Video 1</b>
+    </td>
+    <td align="center" width="50%">
+      <b>Video 2</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <video src="https://github.com/user-attachments/assets/b4676b85-22e1-4ec7-88b9-3941e3c7489e" width="100%" controls></video>
+    </td>
+    <td width="50%">
+      <video src="https://github.com/user-attachments/assets/fa4b85ff-0d8e-45cf-8e7a-b88f5939003b" width="100%" controls></video>
+    </td>
+  </tr>
+</table>
+
 手持三轴云台项目基于storm32开发，重新设计电路部分删除冗余部分，结构采用钣金折弯设计，作为DIY大幅降低可玩性成本。<br>
 修改结构可作为吊舱三轴云台挂载无人机使用，电路固件通用。
 
