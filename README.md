@@ -1,37 +1,9 @@
 # STorM32_Gimbal项目简介
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github.com/user-attachments/assets/0c473fa2-4649-4ee6-bf2f-c77e58dbf4f5" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://github.com/user-attachments/assets/4dfc6341-fdcd-4deb-a17a-ca13e4600e9a" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <b>Video 1</b>
-    </td>
-    <td align="center" width="50%">
-      <b>Video 2</b>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <video src="https://github.com/user-attachments/assets/b4676b85-22e1-4ec7-88b9-3941e3c7489e" width="100%" controls></video>
-    </td>
-    <td width="50%">
-      <video src="https://github.com/user-attachments/assets/fa4b85ff-0d8e-45cf-8e7a-b88f5939003b" width="100%" controls></video>
-    </td>
-  </tr>
-</table>
-
 手持三轴云台项目基于storm32开发，重新设计电路部分删除冗余部分，结构采用钣金折弯设计，作为DIY大幅降低可玩性成本。<br>
 修改结构可作为吊舱三轴云台挂载无人机使用，电路固件通用。
+
+最终的成品可以参考这里[实物演示](Images/)
 
 **版本说明**
 * 硬件版本参考主板V3.3i、驱动器编码器版V42EC-g4和陀螺仪V42-g4。主控采用STM32F103RCT6，其余模块主控采用是STM32G431KBU3。
